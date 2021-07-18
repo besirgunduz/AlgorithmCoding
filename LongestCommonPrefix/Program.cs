@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Text;
 
 namespace LongestCommonPrefix
 {
@@ -7,39 +6,39 @@ namespace LongestCommonPrefix
     {
         static void Main(string[] args)
         {
-            string[] str = { "flower", "flow", "flight","flc","fmm" }; //f
 
-            LongestCommonPrefix(str);
+            //Write a function to find the longest common prefix string amongst an array of strings.
+
+            //If there is no common prefix, return an empty string "".
+
+            //Input: strs = ["flower", "flow", "flight"]
+            //Output: "fl"
+
+            //Input: strs = ["dog", "racecar", "car"]
+            //Output: ""
+
+            var strs = new string[] { "flover", "flow", "flight" };
+            Console.WriteLine(LongestCommonPrefix(strs));
 
             string LongestCommonPrefix(string[] strs)
             {
-                StringBuilder sb = new StringBuilder();
+                if (strs.Length == 0) return "";
 
-                int enKucuk = int.MaxValue; //3
+                string prefix = strs[0]; // flower
 
-                for (int i = 0; i < strs.Length; i++)
+                for (int i = 1; i < strs.Length; i++) //flow - flover 0
                 {
-                    if (strs[i].Length<enKucuk)
+                    while (strs[i].IndexOf(prefix) != 0)
                     {
-                        enKucuk = strs[i].Length;
+                        prefix = prefix.Substring(0, prefix.Length - 1);
+                        if (String.IsNullOrEmpty(prefix)) return "";
                     }
                 }
 
-                for (int i = 0; i < enKucuk; i++)
-                {
-                    for (int j = 0; j < strs.Length; j++)
-                    {
-                        if (strs[j][i] == strs[1][i])
-                        {
+                return prefix;
 
-                        }
-                    }
-                }
-
-                string sonuc = sb.ToString();
-
-                return sonuc;
             }
+
         }
     }
 }
