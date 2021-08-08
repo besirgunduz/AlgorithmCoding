@@ -19,30 +19,30 @@ namespace RemoveDuplicatesFromSortedArray
             var nums = new int[] { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4 };
             Console.WriteLine(RemoveDuplicates(nums));
 
-            int RemoveDuplicates(int[] nums)
+
+        }
+
+        static int RemoveDuplicates(int[] nums)
+        {
+            if (nums.Length < 2)
             {
-                if (nums.Length < 2)
-                {
-                    return nums.Length;
-                }
-
-                var mevcutKarakter = nums[0];
-                var index = 0;
-
-                for (int i = 1; i < nums.Length; i++)
-                {
-                    if (nums[i] != mevcutKarakter)
-                    {
-                        index++;
-                        mevcutKarakter = nums[i];
-                        nums[index] = mevcutKarakter;
-                    }
-                }
-
-                return index + 1; // + 1 = mevcutKarakter
+                return nums.Length;
             }
 
+            var mevcutKarakter = nums[0];
+            var index = 0;
 
+            for (int i = 1; i < nums.Length; i++)
+            {
+                if (nums[i] != mevcutKarakter)
+                {
+                    index++;
+                    mevcutKarakter = nums[i];
+                    nums[index] = mevcutKarakter;
+                }
+            }
+
+            return index + 1; // + 1 = mevcutKarakter
         }
     }
 }
