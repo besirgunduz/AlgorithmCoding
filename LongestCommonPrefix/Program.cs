@@ -20,24 +20,24 @@ namespace LongestCommonPrefix
             var strs = new string[] { "flover", "flow", "flight" };
             Console.WriteLine(LongestCommonPrefix(strs));
 
-            string LongestCommonPrefix(string[] strs)
+        }
+
+        static string LongestCommonPrefix(string[] strs)
+        {
+            if (strs.Length == 0) return "";
+
+            string prefix = strs[0];
+
+            for (int i = 1; i < strs.Length; i++)
             {
-                if (strs.Length == 0) return "";
-
-                string prefix = strs[0]; // flower
-
-                for (int i = 1; i < strs.Length; i++) //flow - flover 0
+                while (strs[i].IndexOf(prefix) != 0)
                 {
-                    while (strs[i].IndexOf(prefix) != 0)
-                    {
-                        prefix = prefix.Substring(0, prefix.Length - 1);
-                        if (String.IsNullOrEmpty(prefix)) return "";
-                    }
+                    prefix = prefix.Substring(0, prefix.Length - 1);
+                    if (String.IsNullOrEmpty(prefix)) return "";
                 }
-
-                return prefix;
-
             }
+
+            return prefix;
 
         }
     }
