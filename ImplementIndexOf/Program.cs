@@ -21,23 +21,25 @@ namespace ImplementIndexOf
             string haystack = "hello";
             string needle = "ll";
 
-            Console.WriteLine(IndexOf(haystack, needle));
+            Console.WriteLine(ImplementIndexOf(haystack, needle));
 
-            int IndexOf(string haystack, string needle)
+            Console.ReadKey();
+
+        }
+
+        static int ImplementIndexOf(string haystack, string needle)
+        {
+            if (haystack.Length < needle.Length)
             {
-                if (haystack.Length < needle.Length)
-                {
-                    return -1;
-                }
-
-                if (string.IsNullOrEmpty(needle))
-                {
-                    return 0;
-                }
-
-                return haystack.IndexOf(needle);
+                return -1;
             }
 
+            if (string.IsNullOrEmpty(needle))
+            {
+                return 0;
+            }
+
+            return haystack.IndexOf(needle);
         }
     }
 }
