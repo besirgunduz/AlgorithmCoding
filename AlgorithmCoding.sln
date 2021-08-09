@@ -9,17 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseInteger", "ReverseIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{5F3A7617-65BF-4686-B0A0-056977A5E808}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{D489E5E7-6D25-4D31-82B1-FD05F0FF85D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{D489E5E7-6D25-4D31-82B1-FD05F0FF85D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "Valid Parentheses\ValidParentheses.csproj", "{1B2FF447-DD9B-486C-B971-8B11CE9FB98C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "Valid Parentheses\ValidParentheses.csproj", "{1B2FF447-DD9B-486C-B971-8B11CE9FB98C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{DB3EB7DF-7CAB-4404-9ACB-6C754406F7C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{DB3EB7DF-7CAB-4404-9ACB-6C754406F7C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementIndexOf", "ImplementIndexOf\ImplementIndexOf.csproj", "{A0DE5DD3-1E72-49CE-8A74-E181937E8395}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementIndexOf", "ImplementIndexOf\ImplementIndexOf.csproj", "{A0DE5DD3-1E72-49CE-8A74-E181937E8395}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{C34F0E8B-B024-49DB-A187-801BEF18AD63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{C34F0E8B-B024-49DB-A187-801BEF18AD63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{E3F3214C-0D2B-4D23-9EAF-140B8B346AE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{E3F3214C-0D2B-4D23-9EAF-140B8B346AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{34B30E43-9382-453B-9357-003F43188B51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{E3F3214C-0D2B-4D23-9EAF-140B8B346AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3F3214C-0D2B-4D23-9EAF-140B8B346AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3F3214C-0D2B-4D23-9EAF-140B8B346AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34B30E43-9382-453B-9357-003F43188B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B30E43-9382-453B-9357-003F43188B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B30E43-9382-453B-9357-003F43188B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B30E43-9382-453B-9357-003F43188B51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
