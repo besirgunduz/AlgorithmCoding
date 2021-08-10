@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqrt(x)", "Sqrt(x)\Sqrt(x).
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{DC316662-360D-409A-B3D1-6FE1799349BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{F06A5571-EEF5-494D-AC1C-A3725B9E5BDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{DC316662-360D-409A-B3D1-6FE1799349BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC316662-360D-409A-B3D1-6FE1799349BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC316662-360D-409A-B3D1-6FE1799349BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06A5571-EEF5-494D-AC1C-A3725B9E5BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06A5571-EEF5-494D-AC1C-A3725B9E5BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06A5571-EEF5-494D-AC1C-A3725B9E5BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06A5571-EEF5-494D-AC1C-A3725B9E5BDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
