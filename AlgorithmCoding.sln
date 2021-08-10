@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqrt(x)", "Sqrt(x)\Sqrt(x).csproj", "{E4016E4A-DA44-4C48-8B70-755C2338A1C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{DC316662-360D-409A-B3D1-6FE1799349BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{E4016E4A-DA44-4C48-8B70-755C2338A1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4016E4A-DA44-4C48-8B70-755C2338A1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4016E4A-DA44-4C48-8B70-755C2338A1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC316662-360D-409A-B3D1-6FE1799349BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC316662-360D-409A-B3D1-6FE1799349BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC316662-360D-409A-B3D1-6FE1799349BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC316662-360D-409A-B3D1-6FE1799349BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
