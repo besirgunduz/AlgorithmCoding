@@ -21,17 +21,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "RemoveElem
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{E3F3214C-0D2B-4D23-9EAF-140B8B346AE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{34B30E43-9382-453B-9357-003F43188B51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{34B30E43-9382-453B-9357-003F43188B51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{E6E9BFBD-2CAC-4D4C-B0A3-E63561468F5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{E6E9BFBD-2CAC-4D4C-B0A3-E63561468F5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{A6161879-FD45-47FE-AE6B-EF32BEFF05AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusOne", "PlusOne\PlusOne.csproj", "{A6161879-FD45-47FE-AE6B-EF32BEFF05AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqrt(x)", "Sqrt(x)\Sqrt(x).csproj", "{E4016E4A-DA44-4C48-8B70-755C2338A1C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sqrt(x)", "Sqrt(x)\Sqrt(x).csproj", "{E4016E4A-DA44-4C48-8B70-755C2338A1C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{DC316662-360D-409A-B3D1-6FE1799349BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{DC316662-360D-409A-B3D1-6FE1799349BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{F06A5571-EEF5-494D-AC1C-A3725B9E5BDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{F06A5571-EEF5-494D-AC1C-A3725B9E5BDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySort", "ArraySort\ArraySort.csproj", "{F87F9CE6-B817-4E89-84C7-8798FD7EF15D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{F06A5571-EEF5-494D-AC1C-A3725B9E5BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F06A5571-EEF5-494D-AC1C-A3725B9E5BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F06A5571-EEF5-494D-AC1C-A3725B9E5BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F87F9CE6-B817-4E89-84C7-8798FD7EF15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87F9CE6-B817-4E89-84C7-8798FD7EF15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87F9CE6-B817-4E89-84C7-8798FD7EF15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87F9CE6-B817-4E89-84C7-8798FD7EF15D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
