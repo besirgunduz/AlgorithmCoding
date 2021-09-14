@@ -11,7 +11,7 @@ namespace TechnicalInterviewQuestions
             //Cozum1();
 
             //2.Soru
-            Cozum2("abccddbeea", 0);
+            //Cozum2("abccddbeea", 0);
         }
 
         private static void Cozum1()
@@ -32,6 +32,8 @@ namespace TechnicalInterviewQuestions
 
             Console.WriteLine($"Random fonksiyonu {count} kere çalışmıştır");
         }
+
+
         public static string Cozum2(string metin, int count)
         {
             if (metin.Length == 0)
