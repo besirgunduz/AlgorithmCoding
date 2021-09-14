@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClimbingStairs", "ClimbingS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{F06A5571-EEF5-494D-AC1C-A3725B9E5BDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySort", "ArraySort\ArraySort.csproj", "{F87F9CE6-B817-4E89-84C7-8798FD7EF15D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySort", "ArraySort\ArraySort.csproj", "{F87F9CE6-B817-4E89-84C7-8798FD7EF15D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalInterviewQuestions", "TechnicalInterviewQuestions\TechnicalInterviewQuestions.csproj", "{CC365BFC-9184-4E77-A8F0-6E6837079864}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{F87F9CE6-B817-4E89-84C7-8798FD7EF15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F87F9CE6-B817-4E89-84C7-8798FD7EF15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F87F9CE6-B817-4E89-84C7-8798FD7EF15D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC365BFC-9184-4E77-A8F0-6E6837079864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC365BFC-9184-4E77-A8F0-6E6837079864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC365BFC-9184-4E77-A8F0-6E6837079864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC365BFC-9184-4E77-A8F0-6E6837079864}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
