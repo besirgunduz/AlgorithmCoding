@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySort", "ArraySort\Arra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechnicalInterviewQuestions", "TechnicalInterviewQuestions\TechnicalInterviewQuestions.csproj", "{CC365BFC-9184-4E77-A8F0-6E6837079864}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalsTriangle", "PascalsTriangle\PascalsTriangle.csproj", "{0A48B4DD-C89D-418F-B67C-49E310BCAE59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalsTriangle", "PascalsTriangle\PascalsTriangle.csproj", "{0A48B4DD-C89D-418F-B67C-49E310BCAE59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrayByParity", "SortArrayByParity\SortArrayByParity.csproj", "{EE32A1D5-FBCF-4E7A-AE29-6CB40375050A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{0A48B4DD-C89D-418F-B67C-49E310BCAE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A48B4DD-C89D-418F-B67C-49E310BCAE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A48B4DD-C89D-418F-B67C-49E310BCAE59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE32A1D5-FBCF-4E7A-AE29-6CB40375050A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE32A1D5-FBCF-4E7A-AE29-6CB40375050A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE32A1D5-FBCF-4E7A-AE29-6CB40375050A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE32A1D5-FBCF-4E7A-AE29-6CB40375050A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
