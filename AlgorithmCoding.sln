@@ -41,9 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalsTriangle", "PascalsT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortArrayByParity", "SortArrayByParity\SortArrayByParity.csproj", "{EE32A1D5-FBCF-4E7A-AE29-6CB40375050A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountAndSay", "CountAndSay\CountAndSay.csproj", "{542AED6D-A93A-4227-8557-B3C2D6097A4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountAndSay", "CountAndSay\CountAndSay.csproj", "{542AED6D-A93A-4227-8557-B3C2D6097A4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddBinary.csproj", "{C55992CB-237A-48D5-BFCE-96C575990007}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddBinary", "AddBinary\AddBinary.csproj", "{C55992CB-237A-48D5-BFCE-96C575990007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseOnlyLetters", "ReverseOnlyLetters\ReverseOnlyLetters.csproj", "{03E6B977-E4F8-4A7A-A658-4F597BE59DC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{C55992CB-237A-48D5-BFCE-96C575990007}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C55992CB-237A-48D5-BFCE-96C575990007}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C55992CB-237A-48D5-BFCE-96C575990007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E6B977-E4F8-4A7A-A658-4F597BE59DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E6B977-E4F8-4A7A-A658-4F597BE59DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E6B977-E4F8-4A7A-A658-4F597BE59DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E6B977-E4F8-4A7A-A658-4F597BE59DC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
