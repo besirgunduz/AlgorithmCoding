@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountAndSay", "CountAndSay\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddBinary", "AddBinary\AddBinary.csproj", "{C55992CB-237A-48D5-BFCE-96C575990007}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseOnlyLetters", "ReverseOnlyLetters\ReverseOnlyLetters.csproj", "{03E6B977-E4F8-4A7A-A658-4F597BE59DC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseOnlyLetters", "ReverseOnlyLetters\ReverseOnlyLetters.csproj", "{03E6B977-E4F8-4A7A-A658-4F597BE59DC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueEmailAddresses", "UniqueEmailAddresses\UniqueEmailAddresses.csproj", "{3C6F447B-CB63-4C37-BAAB-D14B878C55F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{03E6B977-E4F8-4A7A-A658-4F597BE59DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03E6B977-E4F8-4A7A-A658-4F597BE59DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03E6B977-E4F8-4A7A-A658-4F597BE59DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C6F447B-CB63-4C37-BAAB-D14B878C55F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6F447B-CB63-4C37-BAAB-D14B878C55F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6F447B-CB63-4C37-BAAB-D14B878C55F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6F447B-CB63-4C37-BAAB-D14B878C55F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
