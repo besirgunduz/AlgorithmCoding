@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseOnlyLetters", "Rever
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniqueEmailAddresses", "UniqueEmailAddresses\UniqueEmailAddresses.csproj", "{3C6F447B-CB63-4C37-BAAB-D14B878C55F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixDiagonalSum", "MatrixDiagonalSum\MatrixDiagonalSum.csproj", "{17C69D0A-6B47-4B20-B264-F983E5AEE78F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixDiagonalSum", "MatrixDiagonalSum\MatrixDiagonalSum.csproj", "{17C69D0A-6B47-4B20-B264-F983E5AEE78F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfUniqueElements", "SumOfUniqueElements\SumOfUniqueElements.csproj", "{7A4A4127-5E6F-4627-BA28-396EE66E98D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{17C69D0A-6B47-4B20-B264-F983E5AEE78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17C69D0A-6B47-4B20-B264-F983E5AEE78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17C69D0A-6B47-4B20-B264-F983E5AEE78F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4A4127-5E6F-4627-BA28-396EE66E98D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4A4127-5E6F-4627-BA28-396EE66E98D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4A4127-5E6F-4627-BA28-396EE66E98D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4A4127-5E6F-4627-BA28-396EE66E98D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
