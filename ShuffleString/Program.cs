@@ -29,8 +29,8 @@ namespace ShuffleString
                 newArray[indices[i]] = s[i];
             }
 
-            return new string(newArray);
-            //return string.Join("", newArray);
+            //return new string(newArray);
+            return string.Join("", newArray);
         }
     }
 }
