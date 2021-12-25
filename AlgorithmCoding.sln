@@ -59,7 +59,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountNegatives", "CountNega
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetMatrixZeroes", "SetMatrixZeroes\SetMatrixZeroes.csproj", "{C36A2D1C-47DF-4F19-B4AF-4361233FC744}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsomorphicStrings", "IsomorphicStrings\IsomorphicStrings.csproj", "{2C2021AC-322C-4934-BAFF-F7083FFC82D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsomorphicStrings", "IsomorphicStrings\IsomorphicStrings.csproj", "{2C2021AC-322C-4934-BAFF-F7083FFC82D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfGoodPairs", "NumberOfGoodPairs\NumberOfGoodPairs.csproj", "{DCBF3D80-4F6D-46C5-8505-B3D385A0D0A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{2C2021AC-322C-4934-BAFF-F7083FFC82D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C2021AC-322C-4934-BAFF-F7083FFC82D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C2021AC-322C-4934-BAFF-F7083FFC82D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCBF3D80-4F6D-46C5-8505-B3D385A0D0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBF3D80-4F6D-46C5-8505-B3D385A0D0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBF3D80-4F6D-46C5-8505-B3D385A0D0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBF3D80-4F6D-46C5-8505-B3D385A0D0A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
