@@ -14,6 +14,7 @@ namespace ThousandSeparator
             //Input: n = 1234
             //Output: "1.234"
 
+
             var n = 123435;
             Console.WriteLine(ThousandSeparator(n));
         }
