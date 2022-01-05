@@ -69,7 +69,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfDigitsInBaseK", "SumOf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsecutiveCharacters", "ConsecutiveCharacters\ConsecutiveCharacters.csproj", "{DF5EA150-72EB-443F-901D-1DDE20D5791B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallerNumbersThanCurrent", "SmallerNumbersThanCurrent\SmallerNumbersThanCurrent.csproj", "{2492356A-2B06-4DC8-8825-6BB656B4657D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmallerNumbersThanCurrent", "SmallerNumbersThanCurrent\SmallerNumbersThanCurrent.csproj", "{2492356A-2B06-4DC8-8825-6BB656B4657D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TribonacciNumber", "TribonacciNumber\TribonacciNumber.csproj", "{D6DF393B-1D04-4B5C-8B81-8F04367DA3F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{2492356A-2B06-4DC8-8825-6BB656B4657D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2492356A-2B06-4DC8-8825-6BB656B4657D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2492356A-2B06-4DC8-8825-6BB656B4657D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6DF393B-1D04-4B5C-8B81-8F04367DA3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DF393B-1D04-4B5C-8B81-8F04367DA3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DF393B-1D04-4B5C-8B81-8F04367DA3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DF393B-1D04-4B5C-8B81-8F04367DA3F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
