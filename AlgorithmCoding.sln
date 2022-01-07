@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TribonacciNumber", "Tribona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfYear", "DayOfYear\DayOfYear.csproj", "{A074A51D-6688-4D8B-BCF4-9E753B66C23A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSumZero", "FindSumZero\FindSumZero.csproj", "{6B074E32-7B45-4B2D-9D97-3B8196C35A54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{A074A51D-6688-4D8B-BCF4-9E753B66C23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A074A51D-6688-4D8B-BCF4-9E753B66C23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A074A51D-6688-4D8B-BCF4-9E753B66C23A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B074E32-7B45-4B2D-9D97-3B8196C35A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B074E32-7B45-4B2D-9D97-3B8196C35A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B074E32-7B45-4B2D-9D97-3B8196C35A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B074E32-7B45-4B2D-9D97-3B8196C35A54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
