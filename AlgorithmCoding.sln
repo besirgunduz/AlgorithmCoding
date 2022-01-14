@@ -85,7 +85,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotateString", "RotateStrin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxConsecutiveOnes", "MaxConsecutiveOnes\MaxConsecutiveOnes.csproj", "{65D9110F-683D-4AE5-B6D1-C8EEA60B24C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{9E7CE95E-36CE-4829-8408-8F7EC7A46D89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{9E7CE95E-36CE-4829-8408-8F7EC7A46D89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummaryRanges", "SummaryRanges\SummaryRanges.csproj", "{8EDBCA1A-8336-4258-916E-76D82E75F941}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +263,10 @@ Global
 		{9E7CE95E-36CE-4829-8408-8F7EC7A46D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E7CE95E-36CE-4829-8408-8F7EC7A46D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E7CE95E-36CE-4829-8408-8F7EC7A46D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDBCA1A-8336-4258-916E-76D82E75F941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDBCA1A-8336-4258-916E-76D82E75F941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDBCA1A-8336-4258-916E-76D82E75F941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDBCA1A-8336-4258-916E-76D82E75F941}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
