@@ -2,7 +2,7 @@
 
 namespace CanPlaceFlowers
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -12,6 +12,33 @@ namespace CanPlaceFlowers
 
             //Input: flowerbed = [1, 0, 0, 0, 1], n = 1
             //Output: true
+
+            var flowerbed = new int[] { 1, 0, 0, 0, 1 };
+            var n = 1;
+            Console.WriteLine(CanPlaceFlowers(flowerbed, n));
+        }
+
+        private static bool CanPlaceFlowers(int[] flowerbed, int n)
+        {
+            var count = 0;
+
+            for (int i = 0; i < flowerbed.Length && count < n; i++)
+            {
+                if (flowerbed[i] == 0)
+                {
+                    var previous = (i == 0) ? flowerbed[i] : flowerbed[i - 1];
+                    var next = (i == flowerbed.Length - 1) ? flowerbed[i] : flowerbed[i + 1];
+
+                    if (previous == 0 && next == 0)
+                    {
+                        flowerbed[i] = 1;
+                        count++;
+                    }
+                }
+            }
+
+            return count == n;
+
         }
     }
 }
