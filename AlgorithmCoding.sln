@@ -99,6 +99,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeConsecutiveOdds", "Thr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{AB6051F6-2ED6-4CA5-B140-AE2C00DB5B46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDisappearedNumbers", "FindDisappearedNumbers\FindDisappearedNumbers.csproj", "{9CBB856E-4FEF-4DD4-BD51-2A9AF743409F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -297,6 +299,10 @@ Global
 		{AB6051F6-2ED6-4CA5-B140-AE2C00DB5B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB6051F6-2ED6-4CA5-B140-AE2C00DB5B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB6051F6-2ED6-4CA5-B140-AE2C00DB5B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CBB856E-4FEF-4DD4-BD51-2A9AF743409F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBB856E-4FEF-4DD4-BD51-2A9AF743409F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBB856E-4FEF-4DD4-BD51-2A9AF743409F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBB856E-4FEF-4DD4-BD51-2A9AF743409F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
