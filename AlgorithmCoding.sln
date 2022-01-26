@@ -97,9 +97,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanPlaceFlowers", "CanPlace
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeConsecutiveOdds", "ThreeConsecutiveOdds\ThreeConsecutiveOdds.csproj", "{858178B2-B97E-4339-A3C9-A33DD2E2C4F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{AB6051F6-2ED6-4CA5-B140-AE2C00DB5B46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{AB6051F6-2ED6-4CA5-B140-AE2C00DB5B46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDisappearedNumbers", "FindDisappearedNumbers\FindDisappearedNumbers.csproj", "{9CBB856E-4FEF-4DD4-BD51-2A9AF743409F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindDisappearedNumbers", "FindDisappearedNumbers\FindDisappearedNumbers.csproj", "{9CBB856E-4FEF-4DD4-BD51-2A9AF743409F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialTrailingZeroes", "FactorialTrailingZeroes\FactorialTrailingZeroes.csproj", "{21D12203-CBD7-4365-8641-864F0BB992D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{9CBB856E-4FEF-4DD4-BD51-2A9AF743409F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CBB856E-4FEF-4DD4-BD51-2A9AF743409F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CBB856E-4FEF-4DD4-BD51-2A9AF743409F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21D12203-CBD7-4365-8641-864F0BB992D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D12203-CBD7-4365-8641-864F0BB992D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D12203-CBD7-4365-8641-864F0BB992D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D12203-CBD7-4365-8641-864F0BB992D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
