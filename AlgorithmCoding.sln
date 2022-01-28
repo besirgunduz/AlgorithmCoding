@@ -105,6 +105,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactorialTrailingZeroes", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{DCF30B1E-D71C-40FB-8BC1-BE5A6E8387BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumber", "MissingNumber\MissingNumber.csproj", "{C106CF5D-4836-4E9B-AE9D-C9D8A363AD5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,10 @@ Global
 		{DCF30B1E-D71C-40FB-8BC1-BE5A6E8387BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCF30B1E-D71C-40FB-8BC1-BE5A6E8387BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCF30B1E-D71C-40FB-8BC1-BE5A6E8387BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C106CF5D-4836-4E9B-AE9D-C9D8A363AD5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C106CF5D-4836-4E9B-AE9D-C9D8A363AD5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C106CF5D-4836-4E9B-AE9D-C9D8A363AD5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C106CF5D-4836-4E9B-AE9D-C9D8A363AD5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
