@@ -103,9 +103,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindDisappearedNumbers", "F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactorialTrailingZeroes", "FactorialTrailingZeroes\FactorialTrailingZeroes.csproj", "{21D12203-CBD7-4365-8641-864F0BB992D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{DCF30B1E-D71C-40FB-8BC1-BE5A6E8387BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{DCF30B1E-D71C-40FB-8BC1-BE5A6E8387BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumber", "MissingNumber\MissingNumber.csproj", "{C106CF5D-4836-4E9B-AE9D-C9D8A363AD5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MissingNumber", "MissingNumber\MissingNumber.csproj", "{C106CF5D-4836-4E9B-AE9D-C9D8A363AD5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetColumnTitle", "ExcelSheetColumnTitle\ExcelSheetColumnTitle.csproj", "{ED6EF4F9-B931-4E2D-988D-0BC64C10593F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -321,6 +323,10 @@ Global
 		{C106CF5D-4836-4E9B-AE9D-C9D8A363AD5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C106CF5D-4836-4E9B-AE9D-C9D8A363AD5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C106CF5D-4836-4E9B-AE9D-C9D8A363AD5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6EF4F9-B931-4E2D-988D-0BC64C10593F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6EF4F9-B931-4E2D-988D-0BC64C10593F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6EF4F9-B931-4E2D-988D-0BC64C10593F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6EF4F9-B931-4E2D-988D-0BC64C10593F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
