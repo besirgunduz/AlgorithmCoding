@@ -109,6 +109,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MissingNumber", "MissingNum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetColumnTitle", "ExcelSheetColumnTitle\ExcelSheetColumnTitle.csproj", "{ED6EF4F9-B931-4E2D-988D-0BC64C10593F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPerfectSquare", "ValidPerfectSquare\ValidPerfectSquare.csproj", "{90DA4C70-FDE4-487E-BBC7-6BCE35B063D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -327,6 +329,10 @@ Global
 		{ED6EF4F9-B931-4E2D-988D-0BC64C10593F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED6EF4F9-B931-4E2D-988D-0BC64C10593F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED6EF4F9-B931-4E2D-988D-0BC64C10593F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90DA4C70-FDE4-487E-BBC7-6BCE35B063D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DA4C70-FDE4-487E-BBC7-6BCE35B063D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DA4C70-FDE4-487E-BBC7-6BCE35B063D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DA4C70-FDE4-487E-BBC7-6BCE35B063D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
