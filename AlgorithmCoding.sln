@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetColumnTitle", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPerfectSquare", "ValidPerfectSquare\ValidPerfectSquare.csproj", "{90DA4C70-FDE4-487E-BBC7-6BCE35B063D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareIsWhite", "SquareIsWhite\SquareIsWhite.csproj", "{CB4DDE33-3F99-4C91-9806-B182F2A6952E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +335,10 @@ Global
 		{90DA4C70-FDE4-487E-BBC7-6BCE35B063D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90DA4C70-FDE4-487E-BBC7-6BCE35B063D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90DA4C70-FDE4-487E-BBC7-6BCE35B063D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB4DDE33-3F99-4C91-9806-B182F2A6952E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB4DDE33-3F99-4C91-9806-B182F2A6952E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB4DDE33-3F99-4C91-9806-B182F2A6952E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB4DDE33-3F99-4C91-9806-B182F2A6952E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
