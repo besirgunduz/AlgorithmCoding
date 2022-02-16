@@ -115,7 +115,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareIsWhite", "SquareIsWh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddEvenLinkedList", "OddEvenLinkedList\OddEvenLinkedList.csproj", "{2B032A35-1917-4E74-B20F-85022A1D6B76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumDepth", "MaximumDepth\MaximumDepth.csproj", "{33244985-9F78-44A9-9A83-9A91ACC0F00C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumDepth", "MaximumDepth\MaximumDepth.csproj", "{33244985-9F78-44A9-9A83-9A91ACC0F00C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepestLeavesSum", "DeepestLeavesSum\DeepestLeavesSum.csproj", "{7B9742BF-DDE0-48F9-AF73-BBC245826A14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -351,6 +353,10 @@ Global
 		{33244985-9F78-44A9-9A83-9A91ACC0F00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33244985-9F78-44A9-9A83-9A91ACC0F00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33244985-9F78-44A9-9A83-9A91ACC0F00C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B9742BF-DDE0-48F9-AF73-BBC245826A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9742BF-DDE0-48F9-AF73-BBC245826A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9742BF-DDE0-48F9-AF73-BBC245826A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9742BF-DDE0-48F9-AF73-BBC245826A14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
