@@ -121,6 +121,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepestLeavesSum", "Deepest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortList", "InsertionSortList\InsertionSortList.csproj", "{B26A4B28-5410-4128-8A68-B45CF96CD002}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralMatrix", "SpiralMatrix\SpiralMatrix.csproj", "{7A1B9F6D-3D6F-4593-A48E-D46D42BF644A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -363,6 +365,10 @@ Global
 		{B26A4B28-5410-4128-8A68-B45CF96CD002}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B26A4B28-5410-4128-8A68-B45CF96CD002}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B26A4B28-5410-4128-8A68-B45CF96CD002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A1B9F6D-3D6F-4593-A48E-D46D42BF644A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1B9F6D-3D6F-4593-A48E-D46D42BF644A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1B9F6D-3D6F-4593-A48E-D46D42BF644A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1B9F6D-3D6F-4593-A48E-D46D42BF644A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
