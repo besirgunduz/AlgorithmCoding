@@ -117,11 +117,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddEvenLinkedList", "OddEve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumDepth", "MaximumDepth\MaximumDepth.csproj", "{33244985-9F78-44A9-9A83-9A91ACC0F00C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepestLeavesSum", "DeepestLeavesSum\DeepestLeavesSum.csproj", "{7B9742BF-DDE0-48F9-AF73-BBC245826A14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepestLeavesSum", "DeepestLeavesSum\DeepestLeavesSum.csproj", "{7B9742BF-DDE0-48F9-AF73-BBC245826A14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortList", "InsertionSortList\InsertionSortList.csproj", "{B26A4B28-5410-4128-8A68-B45CF96CD002}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertionSortList", "InsertionSortList\InsertionSortList.csproj", "{B26A4B28-5410-4128-8A68-B45CF96CD002}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralMatrix", "SpiralMatrix\SpiralMatrix.csproj", "{7A1B9F6D-3D6F-4593-A48E-D46D42BF644A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpiralMatrix", "SpiralMatrix\SpiralMatrix.csproj", "{7A1B9F6D-3D6F-4593-A48E-D46D42BF644A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionTwoLinkedLists", "IntersectionTwoLinkedLists\IntersectionTwoLinkedLists.csproj", "{141ABBEC-2E37-4214-A1A6-E749111212FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -369,6 +371,10 @@ Global
 		{7A1B9F6D-3D6F-4593-A48E-D46D42BF644A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A1B9F6D-3D6F-4593-A48E-D46D42BF644A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A1B9F6D-3D6F-4593-A48E-D46D42BF644A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{141ABBEC-2E37-4214-A1A6-E749111212FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141ABBEC-2E37-4214-A1A6-E749111212FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141ABBEC-2E37-4214-A1A6-E749111212FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141ABBEC-2E37-4214-A1A6-E749111212FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
