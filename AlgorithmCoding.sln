@@ -125,9 +125,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpiralMatrix", "SpiralMatri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntersectionTwoLinkedLists", "IntersectionTwoLinkedLists\IntersectionTwoLinkedLists.csproj", "{141ABBEC-2E37-4214-A1A6-E749111212FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstBadVersion", "FirstBadVersion\FirstBadVersion.csproj", "{4B1CF393-2FD0-4D85-82CF-4ECF7BA116DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstBadVersion", "FirstBadVersion\FirstBadVersion.csproj", "{4B1CF393-2FD0-4D85-82CF-4ECF7BA116DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JewelsAndStones", "JewelsAndStones\JewelsAndStones.csproj", "{44493B13-CDF8-4FD0-9658-5CCAB64D49AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JewelsAndStones", "JewelsAndStones\JewelsAndStones.csproj", "{44493B13-CDF8-4FD0-9658-5CCAB64D49AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote", "RansomNote\RansomNote.csproj", "{C1A808CF-C90D-437C-BBB4-1A934F8F9EDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -387,6 +389,10 @@ Global
 		{44493B13-CDF8-4FD0-9658-5CCAB64D49AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44493B13-CDF8-4FD0-9658-5CCAB64D49AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44493B13-CDF8-4FD0-9658-5CCAB64D49AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A808CF-C90D-437C-BBB4-1A934F8F9EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A808CF-C90D-437C-BBB4-1A934F8F9EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A808CF-C90D-437C-BBB4-1A934F8F9EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A808CF-C90D-437C-BBB4-1A934F8F9EDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
