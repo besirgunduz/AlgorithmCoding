@@ -129,7 +129,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstBadVersion", "FirstBad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JewelsAndStones", "JewelsAndStones\JewelsAndStones.csproj", "{44493B13-CDF8-4FD0-9658-5CCAB64D49AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote", "RansomNote\RansomNote.csproj", "{C1A808CF-C90D-437C-BBB4-1A934F8F9EDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RansomNote", "RansomNote\RansomNote.csproj", "{C1A808CF-C90D-437C-BBB4-1A934F8F9EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberComplement", "NumberComplement\NumberComplement.csproj", "{664FA496-F61C-4684-93B8-6BB1BB561F55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -393,6 +395,10 @@ Global
 		{C1A808CF-C90D-437C-BBB4-1A934F8F9EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1A808CF-C90D-437C-BBB4-1A934F8F9EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1A808CF-C90D-437C-BBB4-1A934F8F9EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664FA496-F61C-4684-93B8-6BB1BB561F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664FA496-F61C-4684-93B8-6BB1BB561F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664FA496-F61C-4684-93B8-6BB1BB561F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664FA496-F61C-4684-93B8-6BB1BB561F55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
