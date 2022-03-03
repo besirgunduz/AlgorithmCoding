@@ -135,6 +135,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberComplement", "NumberC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstUniqueChar", "FirstUniqueChar\FirstUniqueChar.csproj", "{CF9B932A-39E5-48DD-B714-BF218886936A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -405,6 +407,10 @@ Global
 		{CF9B932A-39E5-48DD-B714-BF218886936A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF9B932A-39E5-48DD-B714-BF218886936A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF9B932A-39E5-48DD-B714-BF218886936A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
