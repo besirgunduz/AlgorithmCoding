@@ -137,6 +137,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstUniqueChar", "FirstUni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckStraightLine", "CheckStraightLine\CheckStraightLine.csproj", "{45863DF0-B092-4B87-A6B4-A1D7A46744FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -411,6 +413,10 @@ Global
 		{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45863DF0-B092-4B87-A6B4-A1D7A46744FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45863DF0-B092-4B87-A6B4-A1D7A46744FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45863DF0-B092-4B87-A6B4-A1D7A46744FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45863DF0-B092-4B87-A6B4-A1D7A46744FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
