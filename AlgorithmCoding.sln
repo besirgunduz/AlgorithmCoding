@@ -139,7 +139,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MajorityElement", "Majority
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckStraightLine", "CheckStraightLine\CheckStraightLine.csproj", "{45863DF0-B092-4B87-A6B4-A1D7A46744FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTownJudge", "FindTownJudge\FindTownJudge.csproj", "{D4E7D0B8-909E-4710-8349-F965CCB86682}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTownJudge", "FindTownJudge\FindTownJudge.csproj", "{D4E7D0B8-909E-4710-8349-F965CCB86682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmCoding", "AlgorithmCoding\AlgorithmCoding.csproj", "{51115358-AB14-49DC-904E-660C79E4AD62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -423,6 +425,10 @@ Global
 		{D4E7D0B8-909E-4710-8349-F965CCB86682}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4E7D0B8-909E-4710-8349-F965CCB86682}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4E7D0B8-909E-4710-8349-F965CCB86682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51115358-AB14-49DC-904E-660C79E4AD62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51115358-AB14-49DC-904E-660C79E4AD62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51115358-AB14-49DC-904E-660C79E4AD62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51115358-AB14-49DC-904E-660C79E4AD62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
