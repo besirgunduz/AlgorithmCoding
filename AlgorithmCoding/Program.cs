@@ -8,7 +8,9 @@ namespace AlgorithmCoding
         {
             Console.WriteLine("Hello Word");
 
-            Console.WriteLine(AddDigits.AddDigitsResult(88));
+            var arraySort = ArraySort.ArraySortResult(new int[] { 3, 2, 1 });
+
+            Console.WriteLine(string.Join(',', arraySort));
         }
     }
 }
