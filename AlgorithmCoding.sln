@@ -99,8 +99,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MissingNumber", "MissingNum
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelSheetColumnTitle", "ExcelSheetColumnTitle\ExcelSheetColumnTitle.csproj", "{ED6EF4F9-B931-4E2D-988D-0BC64C10593F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidPerfectSquare", "ValidPerfectSquare\ValidPerfectSquare.csproj", "{90DA4C70-FDE4-487E-BBC7-6BCE35B063D0}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareIsWhite", "SquareIsWhite\SquareIsWhite.csproj", "{CB4DDE33-3F99-4C91-9806-B182F2A6952E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddEvenLinkedList", "OddEvenLinkedList\OddEvenLinkedList.csproj", "{2B032A35-1917-4E74-B20F-85022A1D6B76}"
@@ -331,10 +329,6 @@ Global
 		{ED6EF4F9-B931-4E2D-988D-0BC64C10593F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED6EF4F9-B931-4E2D-988D-0BC64C10593F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED6EF4F9-B931-4E2D-988D-0BC64C10593F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{90DA4C70-FDE4-487E-BBC7-6BCE35B063D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90DA4C70-FDE4-487E-BBC7-6BCE35B063D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90DA4C70-FDE4-487E-BBC7-6BCE35B063D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90DA4C70-FDE4-487E-BBC7-6BCE35B063D0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CB4DDE33-3F99-4C91-9806-B182F2A6952E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CB4DDE33-3F99-4C91-9806-B182F2A6952E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB4DDE33-3F99-4C91-9806-B182F2A6952E}.Release|Any CPU.ActiveCfg = Release|Any CPU
