@@ -41,8 +41,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfUniqueElements", "SumO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShuffleString", "ShuffleString\ShuffleString.csproj", "{33ED100E-0FFC-48B4-A125-25B1CF6388E9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountNegatives", "CountNegatives\CountNegatives.csproj", "{1E227CF5-65AA-4F11-A103-EFEF492F6DE4}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetMatrixZeroes", "SetMatrixZeroes\SetMatrixZeroes.csproj", "{C36A2D1C-47DF-4F19-B4AF-4361233FC744}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsomorphicStrings", "IsomorphicStrings\IsomorphicStrings.csproj", "{2C2021AC-322C-4934-BAFF-F7083FFC82D9}"
@@ -201,10 +199,6 @@ Global
 		{33ED100E-0FFC-48B4-A125-25B1CF6388E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33ED100E-0FFC-48B4-A125-25B1CF6388E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33ED100E-0FFC-48B4-A125-25B1CF6388E9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1E227CF5-65AA-4F11-A103-EFEF492F6DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E227CF5-65AA-4F11-A103-EFEF492F6DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E227CF5-65AA-4F11-A103-EFEF492F6DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E227CF5-65AA-4F11-A103-EFEF492F6DE4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C36A2D1C-47DF-4F19-B4AF-4361233FC744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C36A2D1C-47DF-4F19-B4AF-4361233FC744}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C36A2D1C-47DF-4F19-B4AF-4361233FC744}.Release|Any CPU.ActiveCfg = Release|Any CPU
