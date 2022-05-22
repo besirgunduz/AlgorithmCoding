@@ -61,8 +61,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindSumZero", "FindSumZero\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepeatedSubstringPattern", "RepeatedSubstringPattern\RepeatedSubstringPattern.csproj", "{033A7E7A-1D83-4837-BB6E-D93F5DA5F636}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DayOfTheWeek", "DayOfTheWeek\DayOfTheWeek.csproj", "{21D8109C-4D64-478C-AF89-D9C893EDECAD}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotateString", "RotateString\RotateString.csproj", "{8B957B4B-0210-4FE9-A505-06FD724E94CC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxConsecutiveOnes", "MaxConsecutiveOnes\MaxConsecutiveOnes.csproj", "{65D9110F-683D-4AE5-B6D1-C8EEA60B24C8}"
@@ -239,10 +237,6 @@ Global
 		{033A7E7A-1D83-4837-BB6E-D93F5DA5F636}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{033A7E7A-1D83-4837-BB6E-D93F5DA5F636}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{033A7E7A-1D83-4837-BB6E-D93F5DA5F636}.Release|Any CPU.Build.0 = Release|Any CPU
-		{21D8109C-4D64-478C-AF89-D9C893EDECAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{21D8109C-4D64-478C-AF89-D9C893EDECAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{21D8109C-4D64-478C-AF89-D9C893EDECAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{21D8109C-4D64-478C-AF89-D9C893EDECAD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8B957B4B-0210-4FE9-A505-06FD724E94CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8B957B4B-0210-4FE9-A505-06FD724E94CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B957B4B-0210-4FE9-A505-06FD724E94CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
