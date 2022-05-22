@@ -1,28 +1,21 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Valid_Parentheses
+namespace AlgorithmCoding
 {
-    class Program
+    public static class ValidParentheses
     {
-        static void Main(string[] args)
-        {
-            // Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+        // Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
-            // An input string is valid if:
+        // An input string is valid if:
 
-            // Open brackets must be closed by the same type of brackets.
-            // Open brackets must be closed in the correct order.
+        // Open brackets must be closed by the same type of brackets.
+        // Open brackets must be closed in the correct order.
 
-
-            String s = "(){}[]";
-
-            Console.WriteLine(ValidParentheses(s));
-
-        }
-
-        private static bool ValidParentheses(string s)
+        public static bool ValidParenthesesResult(string s)
         {
             var stack = new Stack<char>();
 
