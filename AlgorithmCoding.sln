@@ -31,8 +31,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalsTriangle", "PascalsT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortArrayByParity", "SortArrayByParity\SortArrayByParity.csproj", "{EE32A1D5-FBCF-4E7A-AE29-6CB40375050A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountAndSay", "CountAndSay\CountAndSay.csproj", "{542AED6D-A93A-4227-8557-B3C2D6097A4C}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseOnlyLetters", "ReverseOnlyLetters\ReverseOnlyLetters.csproj", "{03E6B977-E4F8-4A7A-A658-4F597BE59DC7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniqueEmailAddresses", "UniqueEmailAddresses\UniqueEmailAddresses.csproj", "{3C6F447B-CB63-4C37-BAAB-D14B878C55F5}"
@@ -183,10 +181,6 @@ Global
 		{EE32A1D5-FBCF-4E7A-AE29-6CB40375050A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE32A1D5-FBCF-4E7A-AE29-6CB40375050A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE32A1D5-FBCF-4E7A-AE29-6CB40375050A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{542AED6D-A93A-4227-8557-B3C2D6097A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{542AED6D-A93A-4227-8557-B3C2D6097A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{542AED6D-A93A-4227-8557-B3C2D6097A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{542AED6D-A93A-4227-8557-B3C2D6097A4C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{03E6B977-E4F8-4A7A-A658-4F597BE59DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{03E6B977-E4F8-4A7A-A658-4F597BE59DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03E6B977-E4F8-4A7A-A658-4F597BE59DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
