@@ -43,8 +43,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsomorphicStrings", "Isomor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfGoodPairs", "NumberOfGoodPairs\NumberOfGoodPairs.csproj", "{DCBF3D80-4F6D-46C5-8505-B3D385A0D0A1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TruncateSentence", "TruncateSentence\TruncateSentence.csproj", "{F47B6CAF-24F0-4CFE-88C4-3B0097ED627E}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfDigitsInBaseK", "SumOfDigitsInBaseK\SumOfDigitsInBaseK.csproj", "{70EC1601-ED28-4CB8-8EAF-432FA6E0F0A9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmallerNumbersThanCurrent", "SmallerNumbersThanCurrent\SmallerNumbersThanCurrent.csproj", "{2492356A-2B06-4DC8-8825-6BB656B4657D}"
@@ -185,10 +183,6 @@ Global
 		{DCBF3D80-4F6D-46C5-8505-B3D385A0D0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCBF3D80-4F6D-46C5-8505-B3D385A0D0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCBF3D80-4F6D-46C5-8505-B3D385A0D0A1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F47B6CAF-24F0-4CFE-88C4-3B0097ED627E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F47B6CAF-24F0-4CFE-88C4-3B0097ED627E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F47B6CAF-24F0-4CFE-88C4-3B0097ED627E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F47B6CAF-24F0-4CFE-88C4-3B0097ED627E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{70EC1601-ED28-4CB8-8EAF-432FA6E0F0A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{70EC1601-ED28-4CB8-8EAF-432FA6E0F0A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70EC1601-ED28-4CB8-8EAF-432FA6E0F0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
