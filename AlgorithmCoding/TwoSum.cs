@@ -1,35 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace TwoSum
+namespace AlgorithmCoding
 {
-    class Program
+    public static class TwoSum
     {
-        static void Main(string[] args)
-        {
-            //Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+        //Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
-            //Example:
+        //Example:
 
-            //Input: nums = [2, 7, 11, 15], target = 9
-            //Output:[0,1]
-            //Output: Because nums[0] +nums[1] == 9, we return [0, 1]
+        //Input: nums = [2, 7, 11, 15], target = 9
+        //Output:[0,1]
+        //Output: Because nums[0] +nums[1] == 9, we return [0, 1]
 
-            int[] nums = { 2, 7, 11, 15 };
-            int target = 9;
-
-            //1.yol
-            var result = TwoSum(nums, target);
-            Console.WriteLine($"[{result[0]},{result[1]}]");
-
-            //2.yol
-            var result2 = TwoSum2(nums, target);
-            Console.WriteLine($"[{result2[0]},{result2[1]}]");
-
-            Console.ReadKey();
-        }
-
-        private static int[] TwoSum(int[] nums, int target)
+        public static int[] TwoSumResult(int[] nums, int target)
         {
             int[] arr = new int[2];
 
@@ -48,7 +35,8 @@ namespace TwoSum
 
             return arr;
         }
-        private static int[] TwoSum2(int[] nums, int target)
+
+        public static int[] TwoSumResult2(int[] nums, int target)
         {
             int[] arr = new int[2];
 
@@ -69,7 +57,5 @@ namespace TwoSum
 
             return arr;
         }
-
-
     }
 }
