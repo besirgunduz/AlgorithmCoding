@@ -87,8 +87,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RansomNote", "RansomNote\Ra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberComplement", "NumberComplement\NumberComplement.csproj", "{664FA496-F61C-4684-93B8-6BB1BB561F55}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstUniqueChar", "FirstUniqueChar\FirstUniqueChar.csproj", "{CF9B932A-39E5-48DD-B714-BF218886936A}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTownJudge", "FindTownJudge\FindTownJudge.csproj", "{D4E7D0B8-909E-4710-8349-F965CCB86682}"
@@ -269,10 +267,6 @@ Global
 		{664FA496-F61C-4684-93B8-6BB1BB561F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{664FA496-F61C-4684-93B8-6BB1BB561F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{664FA496-F61C-4684-93B8-6BB1BB561F55}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CF9B932A-39E5-48DD-B714-BF218886936A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CF9B932A-39E5-48DD-B714-BF218886936A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CF9B932A-39E5-48DD-B714-BF218886936A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CF9B932A-39E5-48DD-B714-BF218886936A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU

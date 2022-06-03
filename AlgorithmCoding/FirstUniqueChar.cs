@@ -1,21 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace FirstUniqueChar
+namespace AlgorithmCoding
 {
-    internal class Program
+    public static class FirstUniqueChar
     {
-        static void Main(string[] args)
-        {
-            //Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1.
+        //Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1.
 
-            //Input: s = "loveleetcode"
-            //Output: 2
+        //Input: s = "loveleetcode"
+        //Output: 2
 
-            Console.WriteLine(FirstUniqueChar("loveleetcode"));
-        }
-
-        private static int FirstUniqueChar(string s)
+        private static int FirstUniqueCharResult(string s)
         {
             var dic = new Dictionary<char, int>();
 
