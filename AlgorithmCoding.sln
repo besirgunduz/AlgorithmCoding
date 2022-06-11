@@ -61,8 +61,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareIsWhite", "SquareIsWh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddEvenLinkedList", "OddEvenLinkedList\OddEvenLinkedList.csproj", "{2B032A35-1917-4E74-B20F-85022A1D6B76}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumDepth", "MaximumDepth\MaximumDepth.csproj", "{33244985-9F78-44A9-9A83-9A91ACC0F00C}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpiralMatrix", "SpiralMatrix\SpiralMatrix.csproj", "{7A1B9F6D-3D6F-4593-A48E-D46D42BF644A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstBadVersion", "FirstBadVersion\FirstBadVersion.csproj", "{4B1CF393-2FD0-4D85-82CF-4ECF7BA116DC}"
@@ -201,10 +199,6 @@ Global
 		{2B032A35-1917-4E74-B20F-85022A1D6B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B032A35-1917-4E74-B20F-85022A1D6B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B032A35-1917-4E74-B20F-85022A1D6B76}.Release|Any CPU.Build.0 = Release|Any CPU
-		{33244985-9F78-44A9-9A83-9A91ACC0F00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{33244985-9F78-44A9-9A83-9A91ACC0F00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{33244985-9F78-44A9-9A83-9A91ACC0F00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{33244985-9F78-44A9-9A83-9A91ACC0F00C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7A1B9F6D-3D6F-4593-A48E-D46D42BF644A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7A1B9F6D-3D6F-4593-A48E-D46D42BF644A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A1B9F6D-3D6F-4593-A48E-D46D42BF644A}.Release|Any CPU.ActiveCfg = Release|Any CPU
