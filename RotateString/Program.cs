@@ -16,7 +16,7 @@ namespace RotateString
             var s = "abcde";
             var goal = "cdeab";
 
-            Console.WriteLine(RotateString(s,goal));
+            Console.WriteLine(RotateString(s, goal));
         }
 
         private static bool RotateString(string s, string goal)

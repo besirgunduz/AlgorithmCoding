@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace MatrixDiagonalSum
+﻿namespace MatrixDiagonalSum
 {
     class Program
     {

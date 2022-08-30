@@ -59,8 +59,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoveZeroes", "MoveZeroes\Mo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareIsWhite", "SquareIsWhite\SquareIsWhite.csproj", "{CB4DDE33-3F99-4C91-9806-B182F2A6952E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstBadVersion", "FirstBadVersion\FirstBadVersion.csproj", "{4B1CF393-2FD0-4D85-82CF-4ECF7BA116DC}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JewelsAndStones", "JewelsAndStones\JewelsAndStones.csproj", "{44493B13-CDF8-4FD0-9658-5CCAB64D49AF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RansomNote", "RansomNote\RansomNote.csproj", "{C1A808CF-C90D-437C-BBB4-1A934F8F9EDB}"
@@ -191,10 +189,6 @@ Global
 		{CB4DDE33-3F99-4C91-9806-B182F2A6952E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB4DDE33-3F99-4C91-9806-B182F2A6952E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB4DDE33-3F99-4C91-9806-B182F2A6952E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4B1CF393-2FD0-4D85-82CF-4ECF7BA116DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4B1CF393-2FD0-4D85-82CF-4ECF7BA116DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4B1CF393-2FD0-4D85-82CF-4ECF7BA116DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4B1CF393-2FD0-4D85-82CF-4ECF7BA116DC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{44493B13-CDF8-4FD0-9658-5CCAB64D49AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{44493B13-CDF8-4FD0-9658-5CCAB64D49AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44493B13-CDF8-4FD0-9658-5CCAB64D49AF}.Release|Any CPU.ActiveCfg = Release|Any CPU

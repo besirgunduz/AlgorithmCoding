@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SortArrayByParity
+﻿namespace SortArrayByParity
 {
     class Program
     {

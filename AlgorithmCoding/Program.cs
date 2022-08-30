@@ -6,11 +6,7 @@ namespace AlgorithmCoding
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Word");
-
-            var arraySort = ArraySort.ArraySortResult(new int[] { 3, 2, 1 });
-
-            Console.WriteLine(string.Join(',', arraySort));
+            Console.WriteLine(FirstBadVersion.FirstBadVersionResult(10));
         }
     }
 }

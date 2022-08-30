@@ -13,7 +13,7 @@ namespace MajorityElement
             //Input: nums = [2,2,1,1,1,2,2]
             //Output: 2
 
-            Console.WriteLine(MajorityElement(new int[] {2,2,1,1,1,2,2}));
+            Console.WriteLine(MajorityElement(new int[] { 2, 2, 1, 1, 1, 2, 2 }));
         }
         public static int MajorityElement(int[] nums)
         {

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace MoveZeroes
+﻿namespace MoveZeroes
 {
     internal class Program
     {
