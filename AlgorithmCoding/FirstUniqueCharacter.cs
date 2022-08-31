@@ -2,14 +2,14 @@
 
 namespace AlgorithmCoding
 {
-    public static class FirstUniqueChar
+    public static class FirstUniqueCharacter
     {
         //Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1.
 
         //Input: s = "loveleetcode"
         //Output: 2
 
-        private static int FirstUniqueCharResult(string s)
+        public static int FirstUniqueCharacterResult(string s)
         {
             var dic = new Dictionary<char, int>();
 
