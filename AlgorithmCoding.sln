@@ -59,8 +59,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoveZeroes", "MoveZeroes\Mo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareIsWhite", "SquareIsWhite\SquareIsWhite.csproj", "{CB4DDE33-3F99-4C91-9806-B182F2A6952E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTownJudge", "FindTownJudge\FindTownJudge.csproj", "{D4E7D0B8-909E-4710-8349-F965CCB86682}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorithmCoding", "AlgorithmCoding\AlgorithmCoding.csproj", "{51115358-AB14-49DC-904E-660C79E4AD62}"
@@ -183,10 +181,6 @@ Global
 		{CB4DDE33-3F99-4C91-9806-B182F2A6952E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB4DDE33-3F99-4C91-9806-B182F2A6952E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB4DDE33-3F99-4C91-9806-B182F2A6952E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{079E87B5-9AB3-4BB1-BA22-6763B9BA6BB4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D4E7D0B8-909E-4710-8349-F965CCB86682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D4E7D0B8-909E-4710-8349-F965CCB86682}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4E7D0B8-909E-4710-8349-F965CCB86682}.Release|Any CPU.ActiveCfg = Release|Any CPU
