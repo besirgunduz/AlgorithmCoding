@@ -11,7 +11,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(RansomNote.RansomNoteResult("aa","aab"));
             //Console.WriteLine(NumberComplement.NumberComplementResult(5));
             //Console.WriteLine(FirstUniqueCharacter.FirstUniqueCharacterResult("loveleetcode"));
-            Console.WriteLine(MajorityElement.MajorityElementResult(new int[] {2,2,3,3,4,2,2,2}));
+            //Console.WriteLine(MajorityElement.MajorityElementResult(new int[] {2,2,3,3,4,2,2,2}));
+            Console.WriteLine(ValidPerfectSquare.IsPerfectSquare(9));
         }
     }
 }
