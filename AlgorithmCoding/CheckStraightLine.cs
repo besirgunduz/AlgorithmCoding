@@ -13,6 +13,8 @@
 
             if (c.Length < 2) return true;
 
+            //(y2-y1)/(x2-x1) == (y1-y0)/(x1-x0) olmalı
+
             for (int i = 0; i < c.Length - 2; i++)
             {
                 if ((c[i + 2][1] - c[i + 1][1]) * (c[i + 1][0] - c[i][0]) !=
