@@ -18,14 +18,12 @@
 
             for (int i = s.Length - 1; i >= 0; i--)
             {
-                if (s[i] != ' ')
-                {
-                    count++;
-                }
-                else
+                if (s[i] == ' ')
                 {
                     return count;
                 }
+
+                count++;
             }
 
             return count;

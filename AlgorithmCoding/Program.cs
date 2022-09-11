@@ -13,7 +13,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(FirstUniqueCharacter.FirstUniqueCharacterResult("loveleetcode"));
             //Console.WriteLine(MajorityElement.MajorityElementResult(new int[] {2,2,3,3,4,2,2,2}));
             //Console.WriteLine(ValidPerfectSquare.IsPerfectSquare(9));
-            Console.WriteLine(SingleElement.SingleNonDublicate(new int[] { 1, 1, 2, 3, 3, 4, 4, 8, 8 }));
+            //Console.WriteLine(SingleElement.SingleNonDublicate(new int[] { 1, 1, 2, 3, 3, 4, 4, 8, 8 }));
+            Console.WriteLine(LengthOfLastWord.LastWordCount("Hello World     "));
         }
     }
 }
