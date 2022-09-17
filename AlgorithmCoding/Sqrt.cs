@@ -11,24 +11,28 @@
 
         public static int SqrtResult(int x)
         {
-            int left = 1;
-            int right = x;
+            long left = 1;
+            long right = x;
 
             while (right >= left)
             {
-                int middle = (right - left) / 2 + left;
+                long middle = (right - left) / 2 + left;
 
-                if (x / middle == middle)
-                    return middle;
-
-                else if (x / middle < middle)
+                if (middle * middle == x)
+                {
+                    return (int)middle;
+                }
+                else if (middle * middle > x)
+                {
                     right = middle - 1;
-
+                }
                 else
+                {
                     left = middle + 1;
+                }
             }
 
-            return right;
+            return (int)right;
         }
     }
 }
