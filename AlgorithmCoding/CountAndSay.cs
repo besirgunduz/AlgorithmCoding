@@ -6,6 +6,7 @@ namespace AlgorithmCoding
     {
         //Input: n = 4
         //Output: "1211"
+
         //Explanation:
         //countAndSay(1) = "1"
         //countAndSay(2) = say "1" = one 1 = "11"
@@ -19,7 +20,7 @@ namespace AlgorithmCoding
                 return "1";
             }
 
-            var result = "1"; //21
+            var result = "1"; //"11" -> "21" -> "1211" ...
 
             while (n > 1)
             {
