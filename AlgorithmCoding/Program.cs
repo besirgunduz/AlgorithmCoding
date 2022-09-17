@@ -16,7 +16,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(SingleElement.SingleNonDublicate(new int[] { 1, 1, 2, 3, 3, 4, 4, 8, 8 }));
             //Console.WriteLine(LengthOfLastWord.LastWordCount("Hello World     "));
             //Console.WriteLine(CountAndSay.CountAndSayResult(25));
-            Console.WriteLine(AddBinary.AddBinaryResult("1010", "1011"));
+            //Console.WriteLine(AddBinary.AddBinaryResult("1010", "1011"));
+            Console.WriteLine(Sqrt.SqrtResult(8));
         }
     }
 }
