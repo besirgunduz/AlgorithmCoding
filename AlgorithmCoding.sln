@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{5F3A7617-65BF-4686-B0A0-056977A5E808}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{D489E5E7-6D25-4D31-82B1-FD05F0FF85D2}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{DB3EB7DF-7CAB-4404-9ACB-6C754406F7C3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementIndexOf", "ImplementIndexOf\ImplementIndexOf.csproj", "{A0DE5DD3-1E72-49CE-8A74-E181937E8395}"
@@ -71,10 +69,6 @@ Global
 		{5F3A7617-65BF-4686-B0A0-056977A5E808}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F3A7617-65BF-4686-B0A0-056977A5E808}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F3A7617-65BF-4686-B0A0-056977A5E808}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D489E5E7-6D25-4D31-82B1-FD05F0FF85D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D489E5E7-6D25-4D31-82B1-FD05F0FF85D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D489E5E7-6D25-4D31-82B1-FD05F0FF85D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D489E5E7-6D25-4D31-82B1-FD05F0FF85D2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DB3EB7DF-7CAB-4404-9ACB-6C754406F7C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DB3EB7DF-7CAB-4404-9ACB-6C754406F7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB3EB7DF-7CAB-4404-9ACB-6C754406F7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
