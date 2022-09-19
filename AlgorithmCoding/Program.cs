@@ -20,7 +20,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(Sqrt.SqrtResult(8));
             //Console.WriteLine(ClimbingStairs.ClimbingStairsResult(5));
             //Console.WriteLine(ClimbingStairs.ClimbingStairsResult2(5));
-            Console.WriteLine(RemoveDuplicates.RemoveDuplicatesResult(new int[] {1,2,3,3,4,5,5}));
+            //Console.WriteLine(RemoveDuplicates.RemoveDuplicatesResult(new int[] {1,2,3,3,4,5,5}));
+            Console.WriteLine(MergeSortedArray.MergeSortedArrayResult(new int[] { 1, 2, 3 }, 3, new int[] { 2, 5, 6 }, 3));
         }
     }
 }

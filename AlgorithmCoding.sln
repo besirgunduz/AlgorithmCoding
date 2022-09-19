@@ -15,8 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInteger", "RomanToIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{34B30E43-9382-453B-9357-003F43188B51}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{F06A5571-EEF5-494D-AC1C-A3725B9E5BDD}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechnicalInterviewQuestions", "TechnicalInterviewQuestions\TechnicalInterviewQuestions.csproj", "{CC365BFC-9184-4E77-A8F0-6E6837079864}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalsTriangle", "PascalsTriangle\PascalsTriangle.csproj", "{0A48B4DD-C89D-418F-B67C-49E310BCAE59}"
@@ -89,10 +87,6 @@ Global
 		{34B30E43-9382-453B-9357-003F43188B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34B30E43-9382-453B-9357-003F43188B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34B30E43-9382-453B-9357-003F43188B51}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F06A5571-EEF5-494D-AC1C-A3725B9E5BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F06A5571-EEF5-494D-AC1C-A3725B9E5BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F06A5571-EEF5-494D-AC1C-A3725B9E5BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F06A5571-EEF5-494D-AC1C-A3725B9E5BDD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CC365BFC-9184-4E77-A8F0-6E6837079864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CC365BFC-9184-4E77-A8F0-6E6837079864}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC365BFC-9184-4E77-A8F0-6E6837079864}.Release|Any CPU.ActiveCfg = Release|Any CPU
