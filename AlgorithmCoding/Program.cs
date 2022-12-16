@@ -24,7 +24,9 @@ namespace AlgorithmCoding
             //Console.WriteLine(MergeSortedArray.MergeSortedArrayResult(new int[] { 1, 2, 3 }, 3, new int[] { 2, 5, 6 }, 3));
             //Console.WriteLine(ValidPalindrome.IsPalindrome("race a car"));
             //Console.WriteLine(ExcelSheetColumnNumber.TitleToNumber("ABCD"));
-            Console.WriteLine(PowerOfTwo.IsPowerOfTwo(18));
+            //Console.WriteLine(PowerOfTwo.IsPowerOfTwo(18));
+            Console.WriteLine(PowerOfThree.IsPowerOfThree(27));
+
         }
     }
 }
