@@ -25,7 +25,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(ValidPalindrome.IsPalindrome("race a car"));
             //Console.WriteLine(ExcelSheetColumnNumber.TitleToNumber("ABCD"));
             //Console.WriteLine(PowerOfTwo.IsPowerOfTwo(18));
-            Console.WriteLine(PowerOfThree.IsPowerOfThree(27));
+            //Console.WriteLine(PowerOfThree.IsPowerOfThree(27));
+            Console.WriteLine(HappyNumber.IsHappy(19));
 
         }
     }
