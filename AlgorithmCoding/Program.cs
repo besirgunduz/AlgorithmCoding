@@ -26,7 +26,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(ExcelSheetColumnNumber.TitleToNumber("ABCD"));
             //Console.WriteLine(PowerOfTwo.IsPowerOfTwo(18));
             //Console.WriteLine(PowerOfThree.IsPowerOfThree(27));
-            Console.WriteLine(HappyNumber.IsHappy(19));
+            //Console.WriteLine(HappyNumber.IsHappy(19));
+            MoveZeroes.MoveZeroesResult(new int[] { 0, 1, 0, 3, 12 });
 
         }
     }

@@ -49,8 +49,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SummaryRanges", "SummaryRan
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LemonadeChange", "LemonadeChange\LemonadeChange.csproj", "{EA91E5C7-EA45-4ED6-9B1F-583C1E361397}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{DCF30B1E-D71C-40FB-8BC1-BE5A6E8387BB}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareIsWhite", "SquareIsWhite\SquareIsWhite.csproj", "{CB4DDE33-3F99-4C91-9806-B182F2A6952E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorithmCoding", "AlgorithmCoding\AlgorithmCoding.csproj", "{51115358-AB14-49DC-904E-660C79E4AD62}"
@@ -153,10 +151,6 @@ Global
 		{EA91E5C7-EA45-4ED6-9B1F-583C1E361397}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA91E5C7-EA45-4ED6-9B1F-583C1E361397}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA91E5C7-EA45-4ED6-9B1F-583C1E361397}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DCF30B1E-D71C-40FB-8BC1-BE5A6E8387BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DCF30B1E-D71C-40FB-8BC1-BE5A6E8387BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DCF30B1E-D71C-40FB-8BC1-BE5A6E8387BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DCF30B1E-D71C-40FB-8BC1-BE5A6E8387BB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CB4DDE33-3F99-4C91-9806-B182F2A6952E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CB4DDE33-3F99-4C91-9806-B182F2A6952E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB4DDE33-3F99-4C91-9806-B182F2A6952E}.Release|Any CPU.ActiveCfg = Release|Any CPU
