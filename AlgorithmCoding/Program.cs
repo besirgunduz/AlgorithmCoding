@@ -28,7 +28,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(PowerOfThree.IsPowerOfThree(27));
             //Console.WriteLine(HappyNumber.IsHappy(19));
             //MoveZeroes.MoveZeroesResult(new int[] { 0, 1, 0, 3, 12 });
-            Console.WriteLine(GuessNumber.GuessNumberResult(1896587786, 125));
+            //Console.WriteLine(GuessNumber.GuessNumberResult(1896587786, 125));
+            Console.WriteLine(FindTheDifference.FindTheDifferenceResult("abfx", "cxbaf"));
 
         }
     }
