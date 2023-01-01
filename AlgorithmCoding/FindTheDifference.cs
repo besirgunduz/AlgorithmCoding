@@ -15,8 +15,8 @@
 
             for (int i = 0; i < s.Length; i++)
             {
-                total+=s[i];
-                total-=t[i];
+                total-=s[i];
+                total+=t[i];
             }
 
             return (char)(total + t[t.Length - 1]);
