@@ -30,7 +30,8 @@ namespace AlgorithmCoding
             //MoveZeroes.MoveZeroesResult(new int[] { 0, 1, 0, 3, 12 });
             //Console.WriteLine(GuessNumber.GuessNumberResult(1896587786, 125));
             //Console.WriteLine(FindTheDifference.FindTheDifferenceResult("abfx", "cxbaf"));
-            Console.WriteLine(CountingBits.CountingBitsResult(5));
+            //Console.WriteLine(CountingBits.CountingBitsResult(5));
+            Console.WriteLine(UglyNumber.IsUgly(6));
 
         }
     }
