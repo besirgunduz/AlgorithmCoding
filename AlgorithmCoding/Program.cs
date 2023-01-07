@@ -31,8 +31,7 @@ namespace AlgorithmCoding
             //Console.WriteLine(GuessNumber.GuessNumberResult(1896587786, 125));
             //Console.WriteLine(FindTheDifference.FindTheDifferenceResult("abfx", "cxbaf"));
             //Console.WriteLine(CountingBits.CountingBitsResult(5));
-            Console.WriteLine(UglyNumber.IsUgly(6));
-
+            //Console.WriteLine(UglyNumber.IsUgly(6));
         }
     }
 }
