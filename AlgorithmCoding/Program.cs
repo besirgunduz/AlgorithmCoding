@@ -32,7 +32,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(FindTheDifference.FindTheDifferenceResult("abfx", "cxbaf"));
             //Console.WriteLine(CountingBits.CountingBitsResult(5));
             //Console.WriteLine(UglyNumber.IsUgly(6));
-            Console.WriteLine(RomanToInteger.RomanToIntegerResult("MCMXCIV"));
+            //Console.WriteLine(RomanToInteger.RomanToIntegerResult("MCMXCIV"));
+            Console.WriteLine(RunningSum.RunningSumResult(new int[] { 1, 2, 3, 4 }));
         }
     }
 }
