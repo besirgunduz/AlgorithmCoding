@@ -34,7 +34,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(UglyNumber.IsUgly(6));
             //Console.WriteLine(RomanToInteger.RomanToIntegerResult("MCMXCIV"));
             //Console.WriteLine(RunningSum.RunningSumResult(new int[] { 1, 2, 3, 4 }));
-            Console.WriteLine(ThirdMaximumNumber.ThirdMaximumNumberResult(new int[] { 1,1,1 }));
+            //Console.WriteLine(ThirdMaximumNumber.ThirdMaximumNumberResult(new int[] { 1,1,1 }));
+            Console.WriteLine(ReverseOnlyLetters.ReverseOnlyLettersResult("a-bC-dEf-ghIj"));
         }
     }
 }
