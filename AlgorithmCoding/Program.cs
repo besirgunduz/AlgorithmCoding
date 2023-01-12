@@ -36,7 +36,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(RunningSum.RunningSumResult(new int[] { 1, 2, 3, 4 }));
             //Console.WriteLine(ThirdMaximumNumber.ThirdMaximumNumberResult(new int[] { 1,1,1 }));
             //Console.WriteLine(ReverseOnlyLetters.ReverseOnlyLettersResult("a-bC-dEf-ghIj"));
-            Console.WriteLine(UniqueEmailAddresses.NumUniqueEmails(new string[] { "test.email+alex@leetcode.com", "test.e.mail+bob.cathy@leetcode.com", "testemail+david@lee.tcode.com" }));
+            //Console.WriteLine(UniqueEmailAddresses.NumUniqueEmails(new string[] { "test.email+alex@leetcode.com", "test.e.mail+bob.cathy@leetcode.com", "testemail+david@lee.tcode.com" }));
+            Console.WriteLine(AddStrings.AddStringResult("456", "77"));
         }
     }
 }
