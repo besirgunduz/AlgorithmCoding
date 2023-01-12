@@ -30,7 +30,7 @@ namespace AlgorithmCoding
                 emailSet.Add(local + domain);
             }
 
-            return set.Count;
+            return emailSet.Count;
         }
     }
 }
