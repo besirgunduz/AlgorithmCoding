@@ -44,6 +44,9 @@ namespace AlgorithmCoding
                 elde = sum / 10;
             }
 
+            if (elde > 0)
+                sb.Append(elde);
+
             return new string(sb.ToString().Reverse().ToArray());
         }
     }
