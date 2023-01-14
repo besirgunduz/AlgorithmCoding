@@ -38,7 +38,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(ReverseOnlyLetters.ReverseOnlyLettersResult("a-bC-dEf-ghIj"));
             //Console.WriteLine(UniqueEmailAddresses.NumUniqueEmails(new string[] { "test.email+alex@leetcode.com", "test.e.mail+bob.cathy@leetcode.com", "testemail+david@lee.tcode.com" }));
             //Console.WriteLine(AddStrings.AddStringResult("456", "77"));
-            Console.WriteLine(MonotonicArray.IsMonotonic(new int[] { 6, 5, 4, 4 }));
+            //Console.WriteLine(MonotonicArray.IsMonotonic(new int[] { 6, 5, 4, 4 }));
+            Console.WriteLine(DetectCapital.DetectCapitalResult("Google"));
         }
     }
 }
