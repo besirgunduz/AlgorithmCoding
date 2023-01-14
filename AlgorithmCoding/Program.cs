@@ -40,7 +40,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(AddStrings.AddStringResult("456", "77"));
             //Console.WriteLine(MonotonicArray.IsMonotonic(new int[] { 6, 5, 4, 4 }));
             //Console.WriteLine(DetectCapital.DetectCapitalResult("Google"));
-            ReverseString.ReverseStringResult(new char[] { 'h', 'e', 'l', 'l', 'o' });
+            //ReverseString.ReverseStringResult(new char[] { 'h', 'e', 'l', 'l', 'o' });
+            Console.WriteLine(RobotReturnToOrigin.RobotReturnToOriginResult("UD"));
         }
     }
 }
