@@ -41,7 +41,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(MonotonicArray.IsMonotonic(new int[] { 6, 5, 4, 4 }));
             //Console.WriteLine(DetectCapital.DetectCapitalResult("Google"));
             //ReverseString.ReverseStringResult(new char[] { 'h', 'e', 'l', 'l', 'o' });
-            Console.WriteLine(RobotReturnToOrigin.RobotReturnToOriginResult("UD"));
+            //Console.WriteLine(RobotReturnToOrigin.RobotReturnToOriginResult("UD"));
+            Console.WriteLine(CountPrimes.CountPrimesResult(1928));
         }
     }
 }
