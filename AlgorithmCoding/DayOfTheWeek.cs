@@ -2,7 +2,7 @@
 
 namespace AlgorithmCoding
 {
-    public static class DayOfTheWeek
+    public class DayOfTheWeek
     {
         //Given a date, return the corresponding day of the week for that date.
         //The input is given as three integers representing the day, month and year respectively.

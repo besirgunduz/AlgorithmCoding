@@ -3,7 +3,7 @@
     /// <summary>
     /// Tahmin Oyunu
     /// </summary>
-    public static class GuessNumber
+    public class GuessNumber
     {
         public static int GuessNumberResult(int n, int pick)
         {

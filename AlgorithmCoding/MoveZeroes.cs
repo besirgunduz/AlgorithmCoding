@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AlgorithmCoding
+﻿namespace AlgorithmCoding
 {
-    public static class MoveZeroes
+    public class MoveZeroes
     {
         //Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
         //Note that you must do this in-place without making a copy of the array.

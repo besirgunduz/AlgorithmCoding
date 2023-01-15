@@ -1,12 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AlgorithmCoding
 {
-    public static class HappyNumber
+    public class HappyNumber
     {
         //Write an algorithm to determine if a number n is happy.
         //Starting with any positive integer, replace the number by the sum of the squares of its digits.

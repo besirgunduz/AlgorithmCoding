@@ -1,6 +1,6 @@
 ﻿namespace AlgorithmCoding
 {
-    public static class FactorialTrailingZeroes
+    public class FactorialTrailingZeroes
     {
         //Given an integer n, return the number of trailing zeroes in n!.
 

@@ -2,7 +2,7 @@
 
 namespace AlgorithmCoding
 {
-    public static class ValidParentheses
+    public class ValidParentheses
     {
         // Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 

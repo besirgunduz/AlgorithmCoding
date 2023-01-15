@@ -1,6 +1,6 @@
 ﻿namespace AlgorithmCoding
 {
-    public static class ConsecutiveCharacters
+    public class ConsecutiveCharacters
     {
         //The power of the string is the maximum length of a non-empty substring that contains only one unique character.
         // 1 <= s.length <= 500 Given a string s, return the power of s.

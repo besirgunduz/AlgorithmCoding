@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AlgorithmCoding
 {
-    public static class AddBinary
+    public class AddBinary
     {
         //Given two binary strings a and b, return their sum as a binary string.
 
@@ -16,7 +16,6 @@ namespace AlgorithmCoding
 
         public static string AddBinaryResult(string a, string b)
         {
-            //toplamaya son indexten başla
             var aIndex = a.Length - 1;
             var bIndex = b.Length - 1;
 
@@ -29,7 +28,7 @@ namespace AlgorithmCoding
 
                 if (aIndex >= 0)
                 {
-                    total += a[aIndex] - '0'; //int olarak toplamak için
+                    total += a[aIndex] - '0';
                 }
 
                 if (bIndex >= 0)

@@ -1,6 +1,6 @@
 ﻿namespace AlgorithmCoding
 {
-    public static class LengthOfLastWord
+    public class LengthOfLastWord
     {
         //Given a string s consists of some words separated by some number of spaces, return the length of the last word in the string.
         //A word is a maximal substring consisting of non-space characters only.

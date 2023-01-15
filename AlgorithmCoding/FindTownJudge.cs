@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AlgorithmCoding
+﻿namespace AlgorithmCoding
 {
-    public static class FindTownJudge
+    public class FindTownJudge
     {
         //In a town, there are n people labeled from 1 to n. There is a rumor that one of these people is secretly the town judge.
         //If the town judge exists, then:

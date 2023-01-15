@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AlgorithmCoding
+﻿namespace AlgorithmCoding
 {
     public class ReverseString
     {

@@ -1,6 +1,6 @@
 ﻿namespace AlgorithmCoding
 {
-    public static class PlusOne
+    public class PlusOne
     {
         //Given a non - empty array of decimal digits representing a non - negative integer, increment one to the integer.
         //The digits are stored such that the most significant digit is at the head of the list, and each element in the array contains a single digit.

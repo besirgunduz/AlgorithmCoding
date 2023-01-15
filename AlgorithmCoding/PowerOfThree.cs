@@ -1,17 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AlgorithmCoding
+﻿namespace AlgorithmCoding
 {
     // Given an integer, write a function to determine if it is a power of two.
 
     //Input: n = 16
     //Output: true
 
-    public static class PowerOfThree
+    public class PowerOfThree
     {
         public static bool IsPowerOfThree(int n)
         {

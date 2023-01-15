@@ -1,6 +1,6 @@
 ﻿namespace AlgorithmCoding
 {
-    public static class ExcelSheetColumnNumber
+    public class ExcelSheetColumnNumber
     {
         public static int TitleToNumber(string s)
         {

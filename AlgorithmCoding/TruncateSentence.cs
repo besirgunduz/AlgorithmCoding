@@ -1,6 +1,6 @@
 ﻿namespace AlgorithmCoding
 {
-    public static class TruncateSentence
+    public class TruncateSentence
     {
         //You are given a sentence s​​​​​​ and an integer k​​​​​​.
         //You want to truncate s​​​​​​ such that it contains only the first k​​​​​​ words.

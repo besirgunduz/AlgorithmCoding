@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace AlgorithmCoding
 {
-    public static class DiagonalDifference
+    public class DiagonalDifference
     {
         //Given a square matrix, calculate the absolute difference between the sums of its diagonals
 

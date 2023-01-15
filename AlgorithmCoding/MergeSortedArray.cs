@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AlgorithmCoding
 {
-    public static class MergeSortedArray
+    public class MergeSortedArray
     {
         public static int[] MergeSortedArrayResult(int[] nums1, int m, int[] nums2, int n)
         {

@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace AlgorithmCoding
 {
-    public static class JewelsAndStones
+    public class JewelsAndStones
     {
         //You're given strings jewels representing the types of stones that are jewels, and stones representing the stones you have.
         //Each character in stones is a type of stone you have. You want to know how many of the stones you have are also jewels.

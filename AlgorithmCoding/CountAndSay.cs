@@ -2,7 +2,7 @@
 
 namespace AlgorithmCoding
 {
-    public static class CountAndSay
+    public class CountAndSay
     {
         //Input: n = 4
         //Output: "1211"

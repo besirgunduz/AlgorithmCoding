@@ -1,6 +1,6 @@
 ﻿namespace AlgorithmCoding
 {
-    public static class SameTree
+    public class SameTree
     {
         //Definition for a binary tree node.
         public class TreeNode
