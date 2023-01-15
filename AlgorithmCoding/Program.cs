@@ -42,7 +42,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(DetectCapital.DetectCapitalResult("Google"));
             //ReverseString.ReverseStringResult(new char[] { 'h', 'e', 'l', 'l', 'o' });
             //Console.WriteLine(RobotReturnToOrigin.RobotReturnToOriginResult("UD"));
-            Console.WriteLine(CountPrimes.CountPrimesResult(1928));
+            //Console.WriteLine(CountPrimes.CountPrimesResult(1928));
+            Console.WriteLine(BestTimeToBuyAndSellStock.MaxProfit(new int[] { 7, 1, 5, 3, 6, 4 }));
         }
     }
 }
