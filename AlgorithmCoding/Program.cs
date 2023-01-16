@@ -45,7 +45,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(CountPrimes.CountPrimesResult(1928));
             //Console.WriteLine(BestTimeToBuyAndSellStock.MaxProfit(new int[] { 7, 1, 5, 3, 6, 4 }));
             //Console.WriteLine(HammingDistance.HammingDistanceResult(3, 1));
-            FlippingAnImage.FlipAndInvertImage(new int[][] { new int[] { 1, 1, 0 }, new int[] { 1, 0, 1 }, new int[] { 0, 0, 0 } });
+            //FlippingAnImage.FlipAndInvertImage(new int[][] { new int[] { 1, 1, 0 }, new int[] { 1, 0, 1 }, new int[] { 0, 0, 0 } });
+            Console.WriteLine(ContainsDuplicate.ContainsDuplicateResult2(new int[] { 1, 2, 3, 1 }));
         }
     }
 }
