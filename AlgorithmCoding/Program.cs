@@ -49,7 +49,7 @@ namespace AlgorithmCoding
             //Console.WriteLine(ContainsDuplicate.ContainsDuplicateResult2(new int[] { 1, 2, 3, 1 }));
             //Console.WriteLine(DefangingAnIPAddress.DefangingAnIPAddressResult2("1.1.1.1"));
             //Console.WriteLine(BalancedStringSplit.BalancedStringSplitResult("RLRRLLRLRL"));
-            Console.WriteLine(AlternatingBits.HasAlternatingBits(11));
+            //Console.WriteLine(AlternatingBits.HasAlternatingBits(11));
         }
     }
 }
