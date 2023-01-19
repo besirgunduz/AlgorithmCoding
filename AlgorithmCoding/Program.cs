@@ -48,7 +48,8 @@ namespace AlgorithmCoding
             //FlippingAnImage.FlipAndInvertImage(new int[][] { new int[] { 1, 1, 0 }, new int[] { 1, 0, 1 }, new int[] { 0, 0, 0 } });
             //Console.WriteLine(ContainsDuplicate.ContainsDuplicateResult2(new int[] { 1, 2, 3, 1 }));
             //Console.WriteLine(DefangingAnIPAddress.DefangingAnIPAddressResult2("1.1.1.1"));
-            Console.WriteLine(BalancedStringSplit.BalancedStringSplitResult("RLRRLLRLRL"));
+            //Console.WriteLine(BalancedStringSplit.BalancedStringSplitResult("RLRRLLRLRL"));
+            Console.WriteLine(AlternatingBits.HasAlternatingBits(11));
         }
     }
 }
