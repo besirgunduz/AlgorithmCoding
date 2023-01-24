@@ -50,6 +50,7 @@ namespace AlgorithmCoding
             //Console.WriteLine(DefangingAnIPAddress.DefangingAnIPAddressResult2("1.1.1.1"));
             //Console.WriteLine(BalancedStringSplit.BalancedStringSplitResult("RLRRLLRLRL"));
             //Console.WriteLine(AlternatingBits.HasAlternatingBits(11));
+            SortArrayByParity.SortArrayByParityResult(new int[] { 3, 1, 2, 4 });
         }
     }
 }
