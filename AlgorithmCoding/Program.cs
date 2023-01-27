@@ -51,7 +51,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(BalancedStringSplit.BalancedStringSplitResult("RLRRLLRLRL"));
             //Console.WriteLine(AlternatingBits.HasAlternatingBits(11));
             //SortArrayByParity.SortArrayByParityResult(new int[] { 3, 1, 2, 4 });
-            Console.WriteLine(ReverseInteger.ReverseIntegerResult(123));
+            //Console.WriteLine(ReverseInteger.ReverseIntegerResult(123));
+            PascalTriangle.Generate(5);
         }
     }
 }
