@@ -53,7 +53,8 @@ namespace AlgorithmCoding
             //SortArrayByParity.SortArrayByParityResult(new int[] { 3, 1, 2, 4 });
             //Console.WriteLine(ReverseInteger.ReverseIntegerResult(123));
             //PascalTriangle.Generate(5);
-            Console.WriteLine(Subsequence.IsSubsequence("abc", "ahbgdc"));
+            //Console.WriteLine(Subsequence.IsSubsequence("abc", "ahbgdc"));
+            Console.WriteLine(LicenseKeyFormatting.LicenseKeyFormattingResult("2-5g-3-J", 2));
         }
     }
 }
