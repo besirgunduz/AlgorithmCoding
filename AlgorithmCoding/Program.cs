@@ -47,14 +47,14 @@ namespace AlgorithmCoding
             //Console.WriteLine(HammingDistance.HammingDistanceResult(3, 1));
             //FlippingAnImage.FlipAndInvertImage(new int[][] { new int[] { 1, 1, 0 }, new int[] { 1, 0, 1 }, new int[] { 0, 0, 0 } });
             //Console.WriteLine(ContainsDuplicate.ContainsDuplicateResult2(new int[] { 1, 2, 3, 1 }));
-            //Console.WriteLine(DefangingAnIPAddress.DefangingAnIPAddressResult2("1.1.1.1"));
+            //Console.WriteLine(DefangingAnIPAddress.DefangingAnIPAddressResult2("1.1.1.1")); 
             //Console.WriteLine(BalancedStringSplit.BalancedStringSplitResult("RLRRLLRLRL"));
             //Console.WriteLine(AlternatingBits.HasAlternatingBits(11));
             //SortArrayByParity.SortArrayByParityResult(new int[] { 3, 1, 2, 4 });
             //Console.WriteLine(ReverseInteger.ReverseIntegerResult(123));
             //PascalTriangle.Generate(5);
             //Console.WriteLine(Subsequence.IsSubsequence("abc", "ahbgdc"));
-            Console.WriteLine(LicenseKeyFormatting.LicenseKeyFormattingResult("2-5g-3-J", 2));
+            //Console.WriteLine(LicenseKeyFormatting.LicenseKeyFormattingResult("2-5g-3-J", 2));
         }
     }
 }
