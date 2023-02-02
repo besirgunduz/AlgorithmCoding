@@ -1,16 +1,14 @@
-﻿using System;
-
-namespace AlgorithmCoding
+﻿namespace AlgorithmCoding
 {
 
     public class ListNode
     {
         public int val;
-        public ListNode text;
+        public ListNode next;
         public ListNode(int x)
         {
             val = x;
-            text = null;
+            next = null;
         }
     }
 
@@ -30,17 +28,17 @@ namespace AlgorithmCoding
             }
 
             ListNode slow = head;
-            ListNode fast = head.text;
+            ListNode fast = head.next;
 
             while (slow != fast)
             {
-                if (fast == null || fast.text == null)
+                if (fast == null || fast.next == null)
                 {
                     return false;
                 }
 
-                slow = slow.text;
-                fast = fast.text.text;
+                slow = slow.next;
+                fast = fast.next.next;
             }
 
             return true;
