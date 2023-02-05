@@ -55,6 +55,7 @@ namespace AlgorithmCoding
             //PascalTriangle.Generate(5);
             //Console.WriteLine(Subsequence.IsSubsequence("abc", "ahbgdc"));
             //Console.WriteLine(LicenseKeyFormatting.LicenseKeyFormattingResult("2-5g-3-J", 2));
+            Console.WriteLine(LongestCommonPrefix.LongestCommonPrefixResult(new string[] { "flower", "flow", "flight" }));
         }
     }
 }
