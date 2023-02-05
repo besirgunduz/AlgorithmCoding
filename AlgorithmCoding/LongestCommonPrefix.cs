@@ -18,7 +18,7 @@
             {
                 while (!strs[i].StartsWith(prefix))
                 {
-                    prefix = prefix.Substring(0, prefix.Length - 1);
+                    prefix = prefix[..^1]; //prefix.Substring(0, prefix.Length - 1)
                 }
             }
 
