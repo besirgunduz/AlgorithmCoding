@@ -57,7 +57,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(LicenseKeyFormatting.LicenseKeyFormattingResult("2-5g-3-J", 2));
             //Console.WriteLine(LongestCommonPrefix.LongestCommonPrefixResult(new string[] { "flower", "flow", "flight" }));
             //Console.WriteLine(MaximumNumberOfBalloons.MaximumNumberOfBalloonsResult("loonbalxballpoon"));
-            Console.WriteLine(TaskScheduler.LeastInterval(new char[] { 'A', 'A', 'A', 'A', 'A', 'A', 'B', 'C', 'D', 'E', 'F', 'G' }, 2));
+            //Console.WriteLine(TaskScheduler.LeastInterval(new char[] { 'A', 'A', 'A', 'A', 'A', 'A', 'B', 'C', 'D', 'E', 'F', 'G' }, 2));
+            RotateImage.Rotate(new int[,] { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } });
         }
     }
 }
