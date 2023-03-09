@@ -1,6 +1,6 @@
 ﻿namespace AlgorithmCoding
 {
-    internal class InvertBinaryTree
+    public class InvertBinaryTree
     {
     }
 }
