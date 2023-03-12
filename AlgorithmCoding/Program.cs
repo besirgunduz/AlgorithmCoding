@@ -58,7 +58,8 @@ namespace AlgorithmCoding
             //Console.WriteLine(LongestCommonPrefix.LongestCommonPrefixResult(new string[] { "flower", "flow", "flight" }));
             //Console.WriteLine(MaximumNumberOfBalloons.MaximumNumberOfBalloonsResult("loonbalxballpoon"));
             //Console.WriteLine(TaskScheduler.LeastInterval(new char[] { 'A', 'A', 'A', 'A', 'A', 'A', 'B', 'C', 'D', 'E', 'F', 'G' }, 2));
-            RotateImage.Rotate(new int[][] { new int[] { 1, 2, 3 }, new int[] { 4, 5, 6 }, new int[] { 7, 8, 9 } });
+            //RotateImage.Rotate(new int[][] { new int[] { 1, 2, 3 }, new int[] { 4, 5, 6 }, new int[] { 7, 8, 9 } });
+            Console.WriteLine(FindPivotIndex.PivotIndex(new int[] { 1, 7, 3, 6, 5, 6 }));
         }
     }
 }
