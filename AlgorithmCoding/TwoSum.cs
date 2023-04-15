@@ -53,5 +53,32 @@ namespace AlgorithmCoding
 
             return arr;
         }
+
+        public static int[] TwoSumResult3(int[] nums, int target)
+        {
+            var start = 0;
+            var end = nums.Length - 1;
+
+            while (start <= end)
+            {
+                var sum = nums[start] + nums[end];
+
+                if (sum > target)
+                {
+                    end--;
+                }
+                else if (sum < target)
+                {
+                    start++;
+                }
+                else
+                {
+                    return new int[] { start, end };
+                }
+            }
+
+            return new int[] { start, end };
+        }
+
     }
 }
